@@ -116,13 +116,6 @@ CS50P is a Python-based introduction to programming that covers:
 
 ---
 
-### Final Project (In Progress)
-| Project | Description |
-|----------|-------------|
-| To Be Announced | A custom project that combines and extends course concepts. Planned topics include APIs, data analysis, and AI fundamentals. |
-
----
-
 ## Tools and Environment
 
 - **Language:** Python 3  
